@@ -19,4 +19,4 @@ if weekday == 0:
         connection.sendmail(
             from_addr=my_email,
             to_addrs= "fake_recipient@gmail.com",
-            msg= f"Subject:Thursday Motivation\n\n {quote}")
+            msg= f"Subject:Monday Motivation\n\n {quote}")
